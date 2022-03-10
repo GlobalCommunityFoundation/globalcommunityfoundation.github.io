@@ -4,5 +4,10 @@ p {
 }
 
 h1 {
-    color: teal;
+    color: pink;
+    padding-top: 20px;
+}
+
+body {
+    padding: 50px;
 }
