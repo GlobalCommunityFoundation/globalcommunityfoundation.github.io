@@ -4,8 +4,9 @@ p {
 }
 
 h1 {
-    color: pink;
+    color: rgb(32, 20, 139);
     padding-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
