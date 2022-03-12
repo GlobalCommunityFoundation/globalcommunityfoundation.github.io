@@ -1,47 +1,76 @@
-
 p {
-    font-size: 20px;
-    padding: 0 50px;
+  font-size: 20px;
+  padding: 0 50px;
 }
 
 h1 {
-    color: rgb(255, 255, 255);
-    line-height: .8;
-
+  color: rgb(255, 255, 255);
+  line-height: 0.8;
 }
 
 body {
-    padding: 50px;
-    font-family: 'PT Sans', sans-serif;
-    font-size: 21px;
-    line-height: 1.6;
-    background: #1A1E26;
-    color: #fff;
+  padding: 50px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 21px;
+  line-height: 1.6;
+  background: #1a1e26;
+  color: #fff;
 }
 
-
-
 .btn {
-    /* display: inline-block; */
-    padding: .5em 1.25em;
-    color: white;
-    text-decoration: none;
-    text-transform: capitalize;
-    font-weight: 700;
-    background-color: #3669C9;
-    margin-top: 10px;
+  /* display: inline-block; */
+  padding: 0.5em 1.25em;
+  color: white;
+  text-decoration: none;
+  text-transform: capitalize;
+  font-weight: 700;
+  background-color: #3669c9;
+  margin-top: 10px;
 }
 
 .container {
-    margin: 0 auto;
-    max-width: 1100px;
-    padding: 0 2em;
-    }
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 0 2em;
+}
 
 .accent-bg {
-    background-color: ;
+  background-color: ;
 }
 
 .split {
-    display: flex;
+  display: flex;
+}
+
+.div-oranage {
+  background-color: orange;
+  margin: 0;
+  padding: 50px;
+  width: 500px;
+}
+
+.div-green {
+  background-color: green;
+  margin: 0;
+  padding: 5px;
+  width: 450px;
+  margin: 25px;
+}
+
+.div-blue {
+  background-color: lightblue;
+  margin: 0;
+  padding: 5px;
+  width: 450px;
+  margin: 25px;
+}
+
+.p-Test-Sean-1 {
+  margin: 0;
+  padding: 0;
+  text-indent: 30px;
+}
+
+.btn-pink {
+  color: pink;
 }
