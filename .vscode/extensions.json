@@ -1,7 +1,5 @@
 {
     "recommendations": [
-        "wayou.vscode-todo-highlight",
-        "ms-edgedevtools.vscode-edge-devtools",
         "aaron-bond.better-comments"
     ]
 }
