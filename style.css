@@ -1,12 +1,33 @@
 .container {
-	margin: 0 auto;
-	max-width: 1100px;
+	width: 1100px;
 	padding: 0 2em;
+	margin: 0 50px;
 }
 
 body {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 21px;
-  line-height: 1.6;
-  background: #172f5f;
-  color: #fff;
+	font-family: "PT Sans", sans-serif;
+	font-size: 21px;
+	line-height: 1.6;
+	background: #172f5f;
+	color: #fff;
+}
+
+/* ! Heading Blur */
+.h1-blur {
+	filter: blur(2px);
+}
+/* ! Image */
+.img-div {
+	margin-left: 150px;
+	background-color: white;
+	width: 1100px;
+	/* ! Transform + Filter + Grayscale + Opacity*/
+	transform: rotate(-10deg);
+	filter: opacity(0%);
+	filter: blur(10px);
+}
+
+/* ! Button Transform Test */
+.btn-transform {
+	transform: rotate(10deg);
+}
